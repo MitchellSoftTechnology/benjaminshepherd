@@ -37,7 +37,7 @@ include 'includes/navigation_piano.php';
 	<p><q>Expressive and beautifully phrased ... Bravo</q>
 	<br /><cite>Deniz Arman Gelenbe</cite>, 15 April 2005</p>
 	
-	<p><q>The Slavick&yaccute; Burlesca was played with real bravura and panache</q>
+	<p><q>The Slavick<?php echo "&yaccute;" ?> Burlesca was played with real bravura and panache</q>
 	<br /><cite>Douglas Finch</cite>, 14 February 2005</p>
 	
 	<p><q>He has very fine hands ... he is a very talented musician with a big potential</q>
