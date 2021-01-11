@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: missing.htm
+Disallow: /audio/
+Disallow: /images/
+Disallow: /passwd/

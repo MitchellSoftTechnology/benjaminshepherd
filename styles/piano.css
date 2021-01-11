@@ -1,0 +1,169 @@
+/* #282828; = darkest grey (text colour) */
+/* #4C4646; = dark grey (border colour) */
+/* #848484;  = middle grey (nav bar + outer page colour) */
+/* #A4A4A4; = light grey (centre page + banner colour) */
+/* #BDBDBD; = very light grey (nav bar hover colour) */
+/* #D8D8D8; = lightest grey (border colour) */
+		
+body
+{
+	margin: 0em;
+	padding: 0em;
+	font-size: 95%;
+	font-family: georgia, times, "times new roman", serif;
+	color: #282828; 
+	background-color: #848484;
+}
+
+div#border
+{
+	margin: 0em auto;	
+	padding: 1em;
+	width: 80%;
+	max-width: 1000px;	
+	background-color: #D8D8D8;	
+}
+
+div#main
+{
+	margin: 0em auto;	
+	padding: 1em;
+	width: 95%;	
+	background-color: #A4A4A4;		
+}
+
+a:link { color: #0404B4; } /* dark blue */
+a:visited { color: #0B615E; } /* teal */
+		
+div#banner
+{
+	background-color: #A4A4A4;
+	border-bottom: 1px solid #4C4646;
+	text-align: center;
+}
+		
+div#banner img
+{
+	opacity: 0.7;
+	filter: alpha(opacity=70);
+	border: 4px solid #282828;
+	margin: 0.5em;
+	vertical-align: middle;
+}
+
+#title
+{
+	font-size: 4.75em;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+#subtitle
+{
+	font-size: 3em;
+	font-weight: normal;
+	font-style: italics;
+}
+			
+div#container
+{
+
+}
+		
+div#navigation
+{
+	float: left;
+	width: 150px;
+	padding-top: 2em;
+}
+
+div#navigation ul
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+		
+div#navigation ul li 
+{ 
+	margin-top: 4px; 
+}
+
+div#navigation ul li a
+{
+	display: block;
+	width: 135px;
+	padding: 3px 5px 3px 10px;
+	text-decoration: none;
+	color: black;
+	background-color: #848484;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-size: 1.2em;
+}
+		
+div#navigation ul li a:hover
+{
+	color: #FFFFFF;
+	background-color: #BDBDBD;
+}		
+
+div#navigation ul li a#current
+{
+	color: #000000;
+	background-color: #BDBDBD;
+}
+
+div#content
+{
+	margin-left: 190px;
+	margin-right: 40px;
+	line-height: 150%; 
+}
+		
+div#content h2
+{
+	font-size: 2em;
+	margin: 0;
+	padding-top: 1em;
+	font-weight: normal;
+}
+
+div#content h3
+{
+	font-size: 1.5em;
+	margin: 0;
+	padding-top: 1em;
+	font-weight: normal;
+}
+		
+div#cleardiv
+{
+	clear: both;
+	height: 1em;
+}
+		
+div#footer
+{
+	clear: both;
+	padding: 0.5em 1em;
+	border-top: 1px solid #4C4646;
+	text-align: right;
+}
+
+#clips td,#contact td,#links li,#research td,#awards li
+{
+	padding: 0.5em;
+}
+
+#composer,#type
+{
+	font-weight: bold;
+}
+
+#piece
+{
+	font-style: italic;
+	padding: 0.5em;
+}
+

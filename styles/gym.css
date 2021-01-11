@@ -1,0 +1,162 @@
+/* #0B3861; = darkest blue (text colour) */
+/* #0174DF; = dark blue (border colour) */
+/* #81BEF7;  = middle blue (nav bar + outer page colour) */
+/* #A9D0F5; = light blue (centre page + banner colour) */
+/* #CEE3F6; = very light blue (nav bar hover colour) */
+/* #E0ECF8; = lightest blue (border colour) */
+		
+body
+{
+	margin: 0em;
+	padding: 0em;
+	font-size: 95%;
+	font-family: georgia, times, "times new roman", serif;
+	color: #0B3861; 
+	background-color: #81BEF7;
+}
+
+div#border
+{
+	margin: 0em auto;	
+	padding: 1em;
+	width: 80%;
+	max-width: 1000px;	
+	background-color: #E0ECF8;
+}
+
+div#main
+{
+	margin: 0em auto;	
+	padding: 1em;
+	width: 95%;	
+	background-color: #A9D0F5;		
+}
+
+/*a:link { color: #0404B4; } /* dark blue */
+/*a:visited { color: #0B615E; } /* teal */
+		
+div#banner
+{
+	background-color: #A9D0F5;
+	border-bottom: 1px solid #0B0B61;
+	text-align: center;
+}
+		
+div#banner img
+{
+	opacity: 0.85;
+	filter: alpha(opacity=85);
+	border: 4px solid #084B8A;
+	margin: 0.5em;
+	vertical-align: middle;
+}
+
+#title
+{
+	font-size: 4.75em;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+#subtitle
+{
+	font-size: 3em;
+	font-weight: normal;
+	font-style: italics;
+}
+			
+div#container
+{
+
+}
+		
+div#navigation
+{
+	float: left;
+	width: 150px;
+	padding-top: 2em;
+}
+
+div#navigation ul
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+		
+div#navigation ul li 
+{ 
+	margin-top: 4px; 
+}
+
+div#navigation ul li a
+{
+	display: block;
+	width: 135px;
+	padding: 3px 5px 3px 10px;
+	text-decoration: none;
+	color: black;
+	background-color: #81BEF7;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-size: 1.2em;
+}
+		
+div#navigation ul li a:hover
+{
+	color: #FFFFFF;
+	background-color: #CEE3F6;
+}		
+
+div#navigation ul li a#current
+{
+	color: #000000;
+	background-color: #CEE3F6;
+}
+
+div#content
+{
+	margin-left: 190px;
+	margin-right: 40px;
+	line-height: 150%; 
+}
+		
+div#content h2
+{
+	font-size: 2em;
+	margin: 0;
+	padding-top: 1em;
+	font-weight: normal;
+}
+
+div#content h3
+{
+	font-size: 1.5em;
+	margin: 0;
+	padding-top: 1em;
+	font-weight: normal;
+}
+		
+div#cleardiv
+{
+	clear: both;
+	height: 1em;
+}
+		
+div#footer
+{
+	clear: both;
+	padding: 0.5em 1em;
+	border-top: 1px solid #0B0B61;
+	text-align: right;
+}
+
+#clips td,#contact td,#links li
+{
+	padding: 0.5em;
+}
+
+#type
+{
+	font-weight: bold;
+}

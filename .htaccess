@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^([^.]+)/?$ $1.php?%{QUERY_STRING} [L]
+AddHandler application/x-httpd-alt-php56___lsphp .php
+DirectoryIndex index.html index.htm index.shtml index.php index.cgi index.wml

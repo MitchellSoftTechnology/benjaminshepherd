@@ -1,0 +1,39 @@
+/* #0B3861; = darkest blue (text colour) */
+/* #0174DF; = dark blue (border colour) */
+/* #81BEF7;  = middle blue (nav bar + outer page colour) */
+/* #A9D0F5; = light blue (centre page + banner colour) */
+/* #CEE3F6; = very light blue (nav bar hover colour) */
+/* #E0ECF8; = lightest blue (border colour) */
+	
+body
+{
+	margin: 0em;
+	padding: 0em;
+	font-family: georgia, times, "times new roman", serif;
+	color: #282828;
+	background-color: #999999;	
+	text-align: center;
+}
+
+#title
+{
+    font-style: strong;
+    font-variant: small-caps;
+    font-size: 4.5em;
+	font-weight: normal;
+	padding: 0.75em;
+}
+
+#subtitle
+{
+	font-size: 2.5em;
+	font-weight: normal;
+	font-style: italics;
+	padding: 0.5em;
+}
+
+#center
+{
+	margin-left:auto; 
+	margin-right:auto;
+}
