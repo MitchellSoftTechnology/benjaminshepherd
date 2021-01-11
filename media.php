@@ -20,7 +20,7 @@ include 'includes/navigation_piano.php';
 		<td><a href="audio/JurajHatrik_PianoMusicForChildren_extract.mp3"><img src="images/mp3_icon_small.png" title="mp3 clip"  border=0/></a></td>
 		<td>
 			<table><tr>
-				<td>Juraj Hatrik - Piano Music for Children (Piano Duet with Catherine Herriott - an extract)</td>
+				<td>Juraj Hatr&iaccute;k - Piano Music for Children (Piano Duet with Catherine Herriott - an extract)</td>
 			</tr><tr>
 				<td><em><a href="resources/JurajHatrikCD.doc">CD</a> available for purchase</em></td>
 			</tr></table>
@@ -30,7 +30,7 @@ include 'includes/navigation_piano.php';
 		<td><a href="audio/KlementSlavicky_Burlesca.mp3"><img src="images/mp3_icon_small.png" title="mp3 clip"  border=0/></a></td>
 		<td>
 			<table><tr>
-				<td>Klement Slavicky - Burlesca (studio recording on a Steinway piano in 2005)</td>
+				<td>Klement Slavick&yaccute; - Burlesca (studio recording on a Steinway piano in 2005)</td>
 			</tr></table>
 		</td>
 	</tr>

@@ -9,7 +9,7 @@ include 'includes/navigation_piano.php';
 <div id="content">
 	<h2>Testimonials</h2>
 	
-	<p><q>Scarlett is really happy with Ben – great choice – she is already improving 
+	<p><q>Scarlett is really happy with Ben - great choice - she is already improving
 	beyond recognition. Thank you.</q>
 	<br /><cite>Gaby Zein</cite>, Parent</p>
 	

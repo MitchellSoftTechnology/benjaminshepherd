@@ -17,7 +17,7 @@ include 'includes/navigation_piano.php';
 	Trinity College of Music</a>, London, with <a href="http://www.tcm.ac.uk/RVEc5ce3d79d3c54045ad0ec327ca477646,,.aspx">
 	Alexander Ardakov</a>. After two successful auditions, Benjamin was selected to study his third year 
 	abroad, on the Erasmus Programme, at the <a href="http://www.vsmu.sk/">Academy of Music and Dramatic Arts</a> 
-	in Bratislava, Slovak Republic, with Professor <a href="http://www.pozon.sk/lapsansky/index.html">Mari&aacute;n Lap&#353;ansk&yacute;</a>
+	in Bratislava, Slovak Republic, with Professor <a href="http://www.pozon.sk/lapsansky/index.html">Mari&aacute;n Lap&scaron;ansk&yacute;</a>
 	 (Director of the <a href="http://www.filharm.sk/">Slovak Philharmonic</a>). 
 	Whilst abroad, he set up links with the Slovak Composer, <a href="http://www.hc.sk/src/osobnost.php?lg=en&oid=360">
 	Juraj Hatr&iacute;k</a> and has promoted his music in the UK. After returning to the UK and completing his Bachelor Degree with 

@@ -16,9 +16,9 @@ include 'includes/navigation_piano.php';
 	<li><a href="http://www.vsmu.sk/">Academy of Music and Dramatic Arts</a> (Bratislava, Slovakia)</li>
 	<li><a href="http://www.tcm.ac.uk/RVEc5ce3d79d3c54045ad0ec327ca477646,,.aspx">Alexander Ardakov</a></li>
 	<li><a href="http://www.tcm.ac.uk/RVEfbad04e361264bfc95deae9821879929,,.aspx">Philip Fowke</a></li>
-	<li><a href="http://www.pozon.sk/lapsansky/index.html">Marián Lapšanský</a></li>
-	<li><a href="http://www.hc.sk/src/skladatel.php?oid=360&lg=gb">Juraj Hatrík</a></li>
-	<li><a href="http://en.wikipedia.org/wiki/Klement_Slavick%C3%BD">Klement Slavicky</a></li>
+	<li><a href="http://www.pozon.sk/lapsansky/index.html">Mari&aacute;n Lap&scaron;ansk&yacute;</a></li>
+	<li><a href="http://www.hc.sk/src/skladatel.php?oid=360&lg=gb">Juraj Hatr&iacute;k</a></li>
+	<li><a href="http://en.wikipedia.org/wiki/Klement_Slavick%C3%BD">Klement Slavick&yaccute;</a></li>
 	<li><a href="http://www.sherborne.org/">Sherborne School</a></li>
 	<li><a href="http://www.nottinghillprep.com/">Notting Hill Prep</a></li>
 	<li><a href="http://www.elthamgreen.co.uk/">Eltham Green Comprehensive School</a></li>
