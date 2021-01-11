@@ -2,7 +2,7 @@
         "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>Benjamin Shepherd - The Pianist - <?php echo $title; ?></title>
 	<link href="styles/piano.css" rel="stylesheet" type="text/css" />
 	<link rel="shortcut icon" href="images/piano.ico" />
