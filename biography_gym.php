@@ -1,10 +1,37 @@
-<?php 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<title>Benjamin Shepherd - The Gymnast - Biography</title>
+	<link href="styles/gym.css" rel="stylesheet" type="text/css" />
+	<link rel="shortcut icon" href="images/gym.ico" />
+</head>
+<body>
+<div id="border">
+<div id="main">
+<div id="banner">
+	<table>
+		<tr>
+			<td><img src="images/ben_gym_small.jpg" /></td>
+			<td><div id="title">Benjamin Shepherd</div><!-- <br />-->
+			<div id="subtitle"><i>the gymnast</i></div></td>
+		</tr>
+	</table>
+</div><!--end banner-->
 
-$title = "Biography";
-include 'includes/header_gym.php';
-include 'includes/navigation_gym.php'; 
-
-?>
+<div id="navigation">
+	<ul>
+		<li><a href="index">Home</a></li>
+		<li><a href="biography_gym" id="current">Biography</a></li>
+		<li><a href="awards">Awards</a></li>
+		<li><a href="schedule_gym">Schedule</a></li>
+		<li><a href="media_gym">Media</a></li>
+		<li><a href="gallery_gym">Gallery</a></li>
+		<li><a href="contact_gym">Contact</a></li>
+		<li><a href="links_gym">Links</a></li>
+	</ul>
+</div><!--end navigation-->
 
 <div id="content">
 	<h2>Biography</h2>
@@ -19,7 +46,7 @@ include 'includes/navigation_gym.php';
 	aged just 13.</p> 
 	
 	<p>Sadly, at 14, the symptoms of glandular fever rendered him unable to 
-	maintain gymnastics’ physical demands and, as a result, Benjamin was unable to
+	maintain gymnasticsï¿½ physical demands and, as a result, Benjamin was unable to
 	continue in the sport. He qualified as a coach and maintained close
 	contact with the sport, coaching in London and at J21 during his
 	University holidays.</p>
@@ -31,4 +58,14 @@ include 'includes/navigation_gym.php';
 	2008 British National Tumbling Finals, and then again in both 2009 and 2011!</p>
 </div><!--end content-->
 
-<?php include 'includes/footer.php'; ?>
+<div id="cleardiv"></div>
+
+<div id="footer">
+	Copyright &copy; 2009 - <?php echo strftime("%Y"); ?>
+</div><!--end footer-->
+
+</div><!--end main-->
+</div><!--end border-->
+
+</body>
+</html>
