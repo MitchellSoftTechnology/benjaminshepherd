@@ -65,7 +65,7 @@
 <div id="cleardiv"></div>
 
 <div id="footer">
-	Copyright &copy; 2009 - <?php echo strftime("%Y"); ?>
+	Copyright &copy; 2009 - <script>document.write(new Date().getFullYear());</script>
 </div><!--end footer-->
 
 </div><!--end main-->
