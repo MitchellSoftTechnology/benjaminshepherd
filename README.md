@@ -1,2 +1,2 @@
 # benjaminshepherd.com
-Static PHP website for Benjamin Shepherd
+Static HTML, CSS and JavaScript website for Benjamin Shepherd
